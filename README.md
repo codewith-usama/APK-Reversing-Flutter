@@ -2,7 +2,8 @@
 
 # Demo
 
-![demo](https://user-images.githubusercontent.com/99090844/224564773-70bde916-09b1-41ff-b965-1a20fb5426ca.gif)
+https://user-images.githubusercontent.com/99090844/226172190-6d7a586c-e9a1-45f8-ba72-291678a23880.mp4
+
 
 ## Getting Started
 
